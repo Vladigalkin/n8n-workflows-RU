@@ -1,4 +1,4 @@
-[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md) | [🖥️ Mejor hosting n8n](https://djar.co/hostingn8n)
+[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md) | [🌐 Русская версия](README-RUSSIAN.md) | [🖥️ Mejor hosting n8n](https://djar.co/hostingn8n)
 
 [📲 Noticias Diarias de Inteligencia Artificial gratis en tu WhatsApp](https://djar.co/iawz)
 
