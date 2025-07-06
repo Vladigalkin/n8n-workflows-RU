@@ -1,4 +1,4 @@
-[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md)
+[🌐 Versión en español](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README.md) | [🌐 English Version](https://github.com/DragonJAR/n8n-workflows-es/blob/main/README-ENGLISH.md) | [🌐 Русская версия](README-RUSSIAN.md)
 
 [🖥️ Secure n8n Hosting: Rapid and Easy!](https://djar.co/hostingn8n)
 
